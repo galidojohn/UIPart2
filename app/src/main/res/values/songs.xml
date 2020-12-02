@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sadboi">
+        <item>Paubaya</item>
+        <item>Statue</item>
+
+    </string-array>
+
+    <string-array name="otaku">
+        <item>Twice</item>
+        <item>Blakc pink</item>
+
+    </string-array>
+
+    <string-array name="hype">
+        <item>Ayo</item>
+        <item>Avacci</item>
+        <item>Martin Garrix</item>
+        <item>Loyal</item>
+
+
+
+
+    </string-array>
+</resources>
